@@ -2,5 +2,5 @@
 
 Topic: Data Analytics for Winning Data Competitions
 
-![image](Summer Workshop 2019/NYC Taxi Trip Duration/group2.jpg)
+![image](Summer Workshop 2019/NYC Taxi Trip Duration/Group2.jpg)
 
