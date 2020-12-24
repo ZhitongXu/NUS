@@ -1,4 +1,6 @@
 # NYC Taxi Trip Duration
 
-![image](Summer Workshop 2019/NYC Taxi Trip Duration/SWS3017_[CLUSTER2-36].pdf)
+Topic: Data Analytics for Winning Data Competitions
+
+![image](Summer Workshop 2019/NYC Taxi Trip Duration/group2.jpg)
 
